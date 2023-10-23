@@ -18,7 +18,7 @@
 .your-result h1{
     color: #c0b2ff;
     font-size: 17px;
-    font-family:'Hanken Grotesk';
+    font-family:'Hanken Grotesk', sans-serif;
     text-align: center;
     margin: 0px 0px 25px 0px;
 }
@@ -34,7 +34,7 @@
     height: 140px;
     text-align: center;
     margin: auto;
-    font-family:'Hanken Grotesk';
+    font-family:'Hanken Grotesk', sans-serif;
 }
 
 .circulo-interno h2 {
@@ -50,7 +50,7 @@
 }
 
 .text-your-result {
-    font-family:'Hanken Grotesk';
+    font-family:'Hanken Grotesk', sans-serif;
     text-align: center;
 }
 
@@ -78,7 +78,7 @@
     border-radius: 20px;
     background-color: rgb(255, 255, 255);
     font-size: 9px;
-    font-family:'Hanken Grotesk';
+    font-family:'Hanken Grotesk', sans-serif;
     color:#a1a1a1;
     margin: 50px 50px 50px 0px;
     padding: 30px;
@@ -163,7 +163,7 @@
     border-radius: 20px;
     font-size: 13px;
     font-weight: 500;
-    font-family:'Hanken Grotesk';
+    font-family:'Hanken Grotesk', sans-serif;
     color:white;
     padding: 9px 60px;
     width: 190px;
